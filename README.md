@@ -5,7 +5,7 @@
 
 <h2>What is this?</h2>
 
-The express note taker is a program that 
+Created an application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
 
 <br>
 
@@ -17,11 +17,13 @@ HTML | JavaScript | Node.JS | Express
 <br>
 
 <h2>Install Process</h2>
+* npm install express
+* npm install node
+
+<br>
 
 
-
-<p align ="center"><img src="" style ="height: 800px"></p>
-<P align ="center"><img src="" style ="height: 500px"></p>
+![Screenshot](./screenshot.png)
 
 
 <h3 align="right"><a href="https://github.com/dylangough/Express-Note-Taker">Github Link</a></h3>
